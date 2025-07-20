@@ -1,0 +1,24 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "This is practice tut for node",
+  "homepage": "https://github.com/sattycodex/node-practice#readme",
+  "bugs": {
+    "url": "https://github.com/sattycodex/node-practice/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sattycodex/node-practice.git"
+  },
+  "license": "ISC",
+  "author": "satyam",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
